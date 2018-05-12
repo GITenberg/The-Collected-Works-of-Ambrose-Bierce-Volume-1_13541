@@ -15,6 +15,8 @@ creator:
     - http://en.wikipedia.org/wiki/Ambrose_Bierce
     - http://www.gutenberg.org/ebooks/author/44231
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13541#The-Collected-Works-of-Ambrose-Bierce-Volume-1
 gutenberg_issued: '2004-09-27'
 gutenberg_type: Text
 identifiers:
