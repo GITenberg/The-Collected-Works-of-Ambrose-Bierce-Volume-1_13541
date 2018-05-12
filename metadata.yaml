@@ -1,0 +1,32 @@
+_repo: The-Collected-Works-of-Ambrose-Bierce-Volume-1_13541
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bierce, Ambrose
+    alias: Grile, Dod
+    birthdate: 1842
+    deathdate: 1913
+    gutenberg_agent_id: '206'
+    url: http://www.gutenberg.org/2009/agents/206
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Ambrose_Bierce
+    - http://www.gutenberg.org/ebooks/author/44231
+description: ''
+gutenberg_issued: '2004-09-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13541'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Fiction'
+tableOfContents: Ashes of the beacon -- The land beyond the blow -- For the Ahkoond
+  -- John Smith, liberator -- Bits of autobiography.
+title: The Collected Works of Ambrose Bierce, Volume 1
+url: http://www.gutenberg.org/ebooks/13541
